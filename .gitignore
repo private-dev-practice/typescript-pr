@@ -1,0 +1,6 @@
+ignore.ts
+*.txt
+
+ignore/
+
+!include.txt
